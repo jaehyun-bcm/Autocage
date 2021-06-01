@@ -7,6 +7,10 @@ It would be a very useful feature if we could adjust the pole postion at least a
 ====================== Resolved =============================
 (Please move the items above to below once fixed).
 
+6/1/2021
+(Autocage #14) When we checked the air pressure from the regulator behind the cage during the head-fixation period, it goes up relatively slowly up to 200~250. Because of this slow pressure
+increase, the mouse easily excaped before reaching maximum pressure, which provides stable head-fixation. By changing air pressure regulater, Jing fixed the problem.
+
 5/17/2021
 Mice lick a lot but the protocol is stuck at the stage 0 even after 2000 trials with the performance >95%.
 The screws/nuts in the priston connectors might be loose such that mice could easily escape. Check msg and see if the headfixation interval is increasing as expected (25s
